@@ -2,9 +2,9 @@
 
 Public installer-only repository for AZ Recovery+.
 
-Version: 1.0.2
+Version: 1.0.3
 Installer: AZ-Recovery-Plus-Setup.exe
-Release notes: Version 1.0.2. Publishes the current installer set one patch version ahead of 1.0.1, with installer-only GitHub releases and source code kept local-only.
-SHA-256: 2EFC1668D52E4D64852F5B32585F74A57C4A81C37460260F3E8021C660DCE218
+Release notes: Version 1.0.3. Adds Light, Dark, and System theme controls to the Settings ribbon area across AZ apps, with refreshed installer-only GitHub releases and source code kept local-only.
+SHA-256: D7C05AA9F3144CAEA67BE56952E7596E8F369C47867D1EE337F9C3D76DF6A0A6
 
 Source code stays local-only and is not published in this repository.
